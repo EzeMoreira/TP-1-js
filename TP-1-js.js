@@ -1,1 +1,3 @@
-alert("un mensaje");
+//alert("un mensaje");
+
+document.write("Hello World");
